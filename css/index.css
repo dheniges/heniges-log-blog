@@ -318,11 +318,12 @@ header {
 		align-items: center;
 	}
 	
-	.photo-gallery img {
+	.photo-gallery > img, .photo-gallery > div {
 		width: 100%;
 		max-width: 315px;
 		height: auto;
 		aspect-ratio: 450 / 600;
+		margin-bottom: 2em;
 	}
 }
 
