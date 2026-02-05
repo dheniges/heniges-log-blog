@@ -40,6 +40,7 @@ jobs:
         run: |
           echo "COMMENT_API_URL is set: $([ -n \"$COMMENT_API_URL\" ] && echo 'yes' || echo 'no')"
           echo "COMMENT_API_URL length: ${#COMMENT_API_URL}"
+          echo "COMMENT_API_URL: $COMMENT_API_URL"
         env:
           COMMENT_API_URL: ${{ vars.COMMENT_API_URL }}
       - name: Build 11ty
