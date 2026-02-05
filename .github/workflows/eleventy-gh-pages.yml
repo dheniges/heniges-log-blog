@@ -30,16 +30,23 @@ jobs:
         uses: actions/checkout@v4
       - name: Setup Pages
         uses: actions/configure-pages@v5
-      - name: Build 11ty
-        id: eleventy-build
+      - name: Setup Node
         uses: actions/setup-node@v6
         with:
           node-version: '24'
-      - run: |
-          npm install && npx @11ty/eleventy
+      # Troubleshooting: COMMENT_API_URL must be a repo *Variable* (not Secret).
+      # See Settings → Secrets and variables → Actions → Variables.
+      - name: Check comment env (troubleshooting)
+        run: |
+          echo "COMMENT_API_URL is set: $([ -n \"$COMMENT_API_URL\" ] && echo 'yes' || echo 'no')"
+          echo "COMMENT_API_URL length: ${#COMMENT_API_URL}"
         env:
           COMMENT_API_URL: ${{ vars.COMMENT_API_URL }}
-          COMMENT_SECRET: ${{ vars.COMMENT_SECRET }}
+      - name: Build 11ty
+        run: npm install && npx @11ty/eleventy
+        env:
+          COMMENT_API_URL: ${{ vars.COMMENT_API_URL }}
+          COMMENT_SECRET: ${{ secrets.COMMENT_SECRET }}
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
