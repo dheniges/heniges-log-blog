@@ -357,3 +357,100 @@ header {
 	}
 }
 
+/* Comments section (from Eleventy Comments API) */
+.comments {
+	margin-top: 2em;
+	padding-top: 1.5em;
+	border-top: 1px solid var(--color-gray-20);
+}
+
+.comments-list {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.comment {
+	margin-bottom: 1.25em;
+}
+
+.comment-author {
+	display: block;
+	font-style: normal;
+	font-weight: 600;
+}
+
+.comment-date {
+	display: block;
+	font-size: 0.9em;
+	color: var(--color-gray-50);
+	margin-bottom: 0.25em;
+}
+
+.comment-text {
+	white-space: pre-wrap;
+}
+
+.comment-form-section {
+	margin-top: 2em;
+	padding-top: 1.5em;
+	border-top: 1px solid var(--color-gray-20);
+}
+
+.comment-form-note {
+	font-size: 0.9em;
+	color: var(--color-gray-50);
+	margin-bottom: 1em;
+}
+
+.comment-form {
+	display: block;
+}
+
+.comment-form label {
+	display: block;
+	margin-top: 0.75em;
+	margin-bottom: 0.25em;
+}
+
+.comment-form input[type="text"]:not(.comment-website-honeypot),
+.comment-form textarea {
+	width: 100%;
+	max-width: 30em;
+	padding: 0.4em 0.6em;
+	font: inherit;
+}
+
+.comment-website-honeypot {
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	padding: 0;
+	margin: -1px;
+	overflow: hidden;
+	clip: rect(0, 0, 0, 0);
+	white-space: nowrap;
+	border: 0;
+}
+
+.comment-form button {
+	display: block;
+	margin-top: 1em;
+	padding: 0.5em 1em;
+	font: inherit;
+	cursor: pointer;
+}
+
+.comment-form-message {
+	margin-top: 1em;
+	padding: 0.5em 0;
+}
+
+.comment-form-message--success {
+	color: var(--text-color);
+}
+
+.comment-form-message--error {
+	color: var(--text-color-link-active);
+}
+

@@ -16,6 +16,67 @@ layout: layouts/base.njk
 
 {{ content | safe }}
 
+{%- if comments and comments.length %}
+<section class="comments" aria-labelledby="comments-heading">
+	<h2 id="comments-heading">Comments</h2>
+	<ol class="comments-list">
+		{%- for c in comments %}
+		<li class="comment">
+			<cite class="comment-author">{{ c.author }}</cite>
+			<time class="comment-date" datetime="{{ c.date }}">{{ c.date | readableDate }}</time>
+			<div class="comment-text">{{ c.text }}</div>
+		</li>
+		{%- endfor %}
+	</ol>
+</section>
+{%- endif %}
+
+{%- if commentsApi.apiUrl %}
+<section class="comment-form-section" aria-labelledby="comment-form-heading">
+	<h2 id="comment-form-heading">Add a comment</h2>
+	<p class="comment-form-note">Comments will be reviewed and published at the discretion of the LogBlog™ Editorial Team.</p>
+	<form class="comment-form" action="{{ commentsApi.apiUrl }}/comment" method="post" id="comment-form" data-api-url="{{ commentsApi.apiUrl }}">
+		<label for="comment-displayname">Your name</label>
+		<input type="text" id="comment-displayname" name="displayname" required placeholder="Your name" maxlength="100" />
+		<label for="comment-text">Comment</label>
+		<textarea id="comment-text" name="comment" required placeholder="Your comment" maxlength="2000" rows="4"></textarea>
+		<input type="hidden" name="slug" value="{{ page.fileSlug }}" />
+		<input type="hidden" name="filePath" value="content/blog/{{ page.fileSlug }}.md" />
+		<input type="text" name="website" class="comment-website-honeypot" tabindex="-1" autocomplete="off" aria-hidden="true" />
+		{%- if commentsApi.commentSecret %}
+		<input type="hidden" name="commentSecret" value="{{ commentsApi.commentSecret }}" />
+		{%- endif %}
+		<button type="submit">Submit comment</button>
+	</form>
+	<div class="comment-form-message" id="comment-form-message" hidden></div>
+</section>
+<script eleventy:ignore>
+document.getElementById("comment-form")?.addEventListener("submit", async (e) => {
+	e.preventDefault();
+	const form = e.target;
+	const messageEl = document.getElementById("comment-form-message");
+	messageEl.hidden = false;
+	messageEl.setAttribute("aria-live", "polite");
+	try {
+		const body = new URLSearchParams(new FormData(form));
+		const res = await fetch(form.action, { method: "POST", body });
+		if (res.ok) {
+			messageEl.textContent = "Thanks! Your comment will appear after it’s reviewed and the post is updated.";
+			messageEl.className = "comment-form-message comment-form-message--success";
+			form.reset();
+		} else {
+			const data = await res.json().catch(() => ({}));
+			messageEl.textContent = data.error || "Something went wrong. Please try again later.";
+			messageEl.className = "comment-form-message comment-form-message--error";
+		}
+	} catch (err) {
+		messageEl.textContent = "Could not send comment. Check your connection and try again.";
+		messageEl.className = "comment-form-message comment-form-message--error";
+	}
+});
+</script>
+{%- endif %}
+
 {%- if collections.posts %}
 {%- set previousPost = collections.posts | getPreviousCollectionItem %}
 {%- set nextPost = collections.posts | getNextCollectionItem %}
