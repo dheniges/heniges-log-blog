@@ -35,6 +35,9 @@ jobs:
         uses: actions/setup-node@v6
         with:
           node-version: '24'
+        env:
+          COMMENT_API_URL: ${{ vars.COMMENT_API_URL }}
+          COMMENT_SECRET: ${{ secrets.COMMENT_SECRET }}
       - run: |
           npm install && npx @11ty/eleventy
       - name: Upload artifact
