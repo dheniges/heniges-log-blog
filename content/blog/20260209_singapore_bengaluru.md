@@ -3,6 +3,10 @@ title: Singapore and Bengaluru
 description: The trip begins!
 date: 2026-02-09T00:00:00.000Z
 tags: pretrip
+comments:
+  - author: Dirk
+    date: '2026-02-09T06:06:47.686Z'
+    text: I am thankful for my practice run in Vietnam learning how to cross streets. Bengaluru is a similar level of difficulty but with more cars and buses and fewer motorcycles.
 ---
 
 Sarah here! Dirk has finally convinced me to start pulling my own weight on this blog. [Editor's note: about damn time!]
