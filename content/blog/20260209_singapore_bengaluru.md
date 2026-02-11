@@ -7,6 +7,42 @@ comments:
   - author: Dirk
     date: '2026-02-09T06:06:47.686Z'
     text: I am thankful for my practice run in Vietnam learning how to cross streets. Bengaluru is a similar level of difficulty but with more cars and buses and fewer motorcycles.
+  - author: Janet
+    date: '2026-02-11T01:53:06.532Z'
+    text: "Wowza!!!  I am so grateful to hear you have not been run over yet!!\U0001F974.  And it looks amazing and you are young and your Blog is incredulous for us older folks to read.  Even without birds, Sarah\U0001F99C...did you see anything like this yet?"
+  - author: Janet
+    date: '2026-02-11T01:53:06.630Z'
+    text: "Wowza!!!  I am so grateful to hear you have not been run over yet!!\U0001F974.  And it looks amazing and you are young and your Blog is incredulous for us older folks to read.  Even without birds, Sarah\U0001F99C...did you see anything like this yet?"
+  - author: Janet
+    date: '2026-02-11T01:53:06.631Z'
+    text: "Wowza!!!  I am so grateful to hear you have not been run over yet!!\U0001F974.  And it looks amazing and you are young and your Blog is incredulous for us older folks to read.  Even without birds, Sarah\U0001F99C...did you see anything like this yet?"
+  - author: Janet
+    date: '2026-02-11T01:53:06.727Z'
+    text: "Wowza!!!  I am so grateful to hear you have not been run over yet!!\U0001F974.  And it looks amazing and you are young and your Blog is incredulous for us older folks to read.  Even without birds, Sarah\U0001F99C...did you see anything like this yet?"
+  - author: Janet
+    date: '2026-02-11T01:53:07.313Z'
+    text: "Wowza!!!  I am so grateful to hear you have not been run over yet!!\U0001F974.  And it looks amazing and you are young and your Blog is incredulous for us older folks to read.  Even without birds, Sarah\U0001F99C...did you see anything like this yet?"
+  - author: Janet
+    date: '2026-02-11T01:53:07.842Z'
+    text: "Wowza!!!  I am so grateful to hear you have not been run over yet!!\U0001F974.  And it looks amazing and you are young and your Blog is incredulous for us older folks to read.  Even without birds, Sarah\U0001F99C...did you see anything like this yet?"
+  - author: Janet
+    date: '2026-02-11T01:53:08.794Z'
+    text: "Wowza!!!  I am so grateful to hear you have not been run over yet!!\U0001F974.  And it looks amazing and you are young and your Blog is incredulous for us older folks to read.  Even without birds, Sarah\U0001F99C...did you see anything like this yet?"
+  - author: Janet
+    date: '2026-02-11T01:53:09.611Z'
+    text: "Wowza!!!  I am so grateful to hear you have not been run over yet!!\U0001F974.  And it looks amazing and you are young and your Blog is incredulous for us older folks to read.  Even without birds, Sarah\U0001F99C...did you see anything like this yet?"
+  - author: Janet
+    date: '2026-02-11T01:53:13.586Z'
+    text: "Wowza!!!  I am so grateful to hear you have not been run over yet!!\U0001F974.  And it looks amazing and you are young and your Blog is incredulous for us older folks to read.  Even without birds, Sarah\U0001F99C...did you see anything like this yet?"
+  - author: Janet
+    date: '2026-02-11T01:53:14.447Z'
+    text: "Wowza!!!  I am so grateful to hear you have not been run over yet!!\U0001F974.  And it looks amazing and you are young and your Blog is incredulous for us older folks to read.  Even without birds, Sarah\U0001F99C...did you see anything like this yet?"
+  - author: Janet
+    date: '2026-02-11T01:53:17.858Z'
+    text: "Wowza!!!  I am so grateful to hear you have not been run over yet!!\U0001F974.  And it looks amazing and you are young and your Blog is incredulous for us older folks to read.  Even without birds, Sarah\U0001F99C...did you see anything like this yet?"
+  - author: Janet
+    date: '2026-02-11T01:53:18.766Z'
+    text: "Wowza!!!  I am so grateful to hear you have not been run over yet!!\U0001F974.  And it looks amazing and you are young and your Blog is incredulous for us older folks to read.  Even without birds, Sarah\U0001F99C...did you see anything like this yet?"
 ---
 
 Sarah here! Dirk has finally convinced me to start pulling my own weight on this blog. [Editor's note: about damn time!]
