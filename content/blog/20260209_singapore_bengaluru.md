@@ -9,7 +9,10 @@ comments:
     text: I am thankful for my practice run in Vietnam learning how to cross streets. Bengaluru is a similar level of difficulty but with more cars and buses and fewer motorcycles.
   - author: Sprocket
     date: '2026-02-11T02:37:46.568Z'
-    text: 'Great post, really enjoy the food parts, but I also would like to hear more about the birds!'
+    text: 'Great post, really enjoy the food parts, but I also would like to hear more about the birds! <img src="https://photos.smugmug.com/photos/i-2DK885D/0/LZJR7XWJBsRmTJsWQ46xwTLRshzwJWH4bRfxd6Msq/X3/i-2DK885D-X3.jpg" height="300px" />'
+  - author: Janet
+    date: '2026-02-11T01:53:06.532Z'
+    text: "Wowza!!!  I am so grateful to hear you have not been run over yet!!\U0001F974.  And it looks amazing and you are young and your Blog is incredulous for us older folks to read.  Even without birds, Sarah\U0001F99C...did you see anything like this yet?"
 ---
 
 Sarah here! Dirk has finally convinced me to start pulling my own weight on this blog. [Editor's note: about damn time!]
