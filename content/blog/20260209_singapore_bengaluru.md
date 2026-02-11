@@ -7,6 +7,9 @@ comments:
   - author: Dirk
     date: '2026-02-09T06:06:47.686Z'
     text: I am thankful for my practice run in Vietnam learning how to cross streets. Bengaluru is a similar level of difficulty but with more cars and buses and fewer motorcycles.
+  - author: Sprocket
+    date: '2026-02-11T02:37:46.568Z'
+    text: 'Great post, really enjoy the food parts, but I also would like to hear more about the birds!'
 ---
 
 Sarah here! Dirk has finally convinced me to start pulling my own weight on this blog. [Editor's note: about damn time!]
