@@ -13,6 +13,24 @@ comments:
   - author: Janet
     date: '2026-02-11T01:53:06.532Z'
     text: "Wowza!!!  I am so grateful to hear you have not been run over yet!!\U0001F974.  And it looks amazing and you are young and your Blog is incredulous for us older folks to read.  Even without birds, Sarah\U0001F99C...did you see anything like this yet?"
+  - author: Brett
+    date: '2026-02-11T04:34:09.361Z'
+    text: "Wowza!! The colors of everything, food and buildings and lights! What a beautiful journey and thanks for sharing with us all \U0001F60A\U0001F60E"
+  - author: Brett
+    date: '2026-02-11T04:34:09.460Z'
+    text: "Wowza!! The colors of everything, food and buildings and lights! What a beautiful journey and thanks for sharing with us all \U0001F60A\U0001F60E"
+  - author: Brett
+    date: '2026-02-11T04:34:09.461Z'
+    text: "Wowza!! The colors of everything, food and buildings and lights! What a beautiful journey and thanks for sharing with us all \U0001F60A\U0001F60E"
+  - author: Brett
+    date: '2026-02-11T04:34:09.463Z'
+    text: "Wowza!! The colors of everything, food and buildings and lights! What a beautiful journey and thanks for sharing with us all \U0001F60A\U0001F60E"
+  - author: Brett
+    date: '2026-02-11T04:34:09.576Z'
+    text: "Wowza!! The colors of everything, food and buildings and lights! What a beautiful journey and thanks for sharing with us all \U0001F60A\U0001F60E"
+  - author: Brett
+    date: '2026-02-11T04:34:09.587Z'
+    text: "Wowza!! The colors of everything, food and buildings and lights! What a beautiful journey and thanks for sharing with us all \U0001F60A\U0001F60E"
 ---
 
 Sarah here! Dirk has finally convinced me to start pulling my own weight on this blog. [Editor's note: about damn time!]
