@@ -16,6 +16,9 @@ comments:
   - author: Brett
     date: '2026-02-11T04:34:09.361Z'
     text: "Wowza!! The colors of everything, food and buildings and lights! What a beautiful journey and thanks for sharing with us all \U0001F60A\U0001F60E"
+  - author: Carrie
+    date: '2026-02-12T02:16:56.832Z'
+    text: Love seeing your adventure unfold! That food looks amazing and I’m in awe at how brave you are to navigate transportation. I’d panic and freeze.
 ---
 
 Sarah here! Dirk has finally convinced me to start pulling my own weight on this blog. [Editor's note: about damn time!]
