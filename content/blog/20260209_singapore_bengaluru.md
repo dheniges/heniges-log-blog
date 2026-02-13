@@ -19,6 +19,9 @@ comments:
   - author: Carrie
     date: '2026-02-12T02:16:56.832Z'
     text: Love seeing your adventure unfold! That food looks amazing and I’m in awe at how brave you are to navigate transportation. I’d panic and freeze.
+  - author: Nancy Brown
+    date: '2026-02-12T04:14:54.155Z'
+    text: "Love your travel narrative!  So much fun to read.  Sounds like roulette out on the roads.  Stay safe and keep the updates coming. \U0001F618Nancy and Rog"
 ---
 
 Sarah here! Dirk has finally convinced me to start pulling my own weight on this blog. [Editor's note: about damn time!]
