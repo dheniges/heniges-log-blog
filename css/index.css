@@ -446,6 +446,12 @@ header {
 	padding: 0.5em 0;
 }
 
+.comment-form-message--pending {
+	color: var(--text-color);
+	opacity: 0.8;
+	font-style: italic;
+}
+
 .comment-form-message--success {
 	color: var(--text-color);
 }

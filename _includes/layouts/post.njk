@@ -46,7 +46,7 @@ layout: layouts/base.njk
 		{%- if commentsApi.commentSecret %}
 		<input type="hidden" name="commentSecret" value="{{ commentsApi.commentSecret }}" />
 		{%- endif %}
-		<button type="submit">Submit comment</button>
+		<button type="submit" id="comment-submit-btn">Submit comment</button>
 	</form>
 	<div class="comment-form-message" id="comment-form-message" hidden></div>
 </section>
@@ -54,9 +54,17 @@ layout: layouts/base.njk
 document.getElementById("comment-form")?.addEventListener("submit", async (e) => {
 	e.preventDefault();
 	const form = e.target;
+	const submitBtn = document.getElementById("comment-submit-btn");
 	const messageEl = document.getElementById("comment-form-message");
+
+	submitBtn.disabled = true;
+	submitBtn.dataset.originalText = submitBtn.textContent;
+	submitBtn.textContent = "Submitting…";
 	messageEl.hidden = false;
 	messageEl.setAttribute("aria-live", "polite");
+	messageEl.textContent = "Sending your comment…";
+	messageEl.className = "comment-form-message comment-form-message--pending";
+
 	try {
 		const body = new URLSearchParams(new FormData(form));
 		const res = await fetch(form.action, { method: "POST", body });
@@ -72,6 +80,9 @@ document.getElementById("comment-form")?.addEventListener("submit", async (e) =>
 	} catch (err) {
 		messageEl.textContent = "Could not send comment. Check your connection and try again.";
 		messageEl.className = "comment-form-message comment-form-message--error";
+	} finally {
+		submitBtn.disabled = false;
+		submitBtn.textContent = submitBtn.dataset.originalText || "Submit comment";
 	}
 });
 </script>
