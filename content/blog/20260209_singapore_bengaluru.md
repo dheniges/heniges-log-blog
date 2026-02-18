@@ -2,7 +2,9 @@
 title: Singapore and Bengaluru
 description: The trip begins!
 date: 2026-02-09T00:00:00.000Z
-tags: pretrip
+tags:
+  - india
+  - singapore
 comments:
   - author: Dirk
     date: '2026-02-09T06:06:47.686Z'
