@@ -296,6 +296,16 @@ header {
 	margin-right: 1em;
 }
 
+/* Blog figure (centered image with caption) */
+.blog-figure {
+	text-align: center;
+	margin-bottom: 1.5em;
+}
+.blog-figure small {
+	display: block;
+	margin-top: 0.25em;
+}
+
 /* Photo gallery */
 .photo-gallery {
 	display: flex;
