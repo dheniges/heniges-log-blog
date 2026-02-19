@@ -1,4 +1,6 @@
 import "dotenv/config";
+import path from "node:path";
+import fs from "node:fs";
 import { IdAttributePlugin, InputPathToUrlTransformPlugin, HtmlBasePlugin } from "@11ty/eleventy";
 import { feedPlugin } from "@11ty/eleventy-plugin-rss";
 import pluginSyntaxHighlight from "@11ty/eleventy-plugin-syntaxhighlight";
@@ -87,7 +89,10 @@ export default async function(eleventyConfig) {
 	});
 
 	// Image optimization: https://www.11ty.dev/docs/plugins/image/#eleventy-transform
+	// outputDir in .cache so GitHub Actions can persist the image cache between builds
 	eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
+		urlPath: "/img/built/",
+		outputDir: ".cache/@11ty/img/",
 		// Output formats for each image.
 		formats: ["avif", "webp", "auto"],
 
@@ -105,6 +110,18 @@ export default async function(eleventyConfig) {
 		sharpOptions: {
 			animated: true,
 		},
+	});
+
+	// Copy image cache to output after build (for deployment; .cache is persisted by CI)
+	eleventyConfig.on("eleventy.after", ({ directories, runMode }) => {
+		if (runMode === "build" && directories?.output) {
+			const src = ".cache/@11ty/img";
+			const dest = path.join(directories.output, "img/built");
+			if (fs.existsSync(src)) {
+				fs.mkdirSync(path.dirname(dest), { recursive: true });
+				fs.cpSync(src + "/", dest, { recursive: true });
+			}
+		}
 	});
 
 	// Filters

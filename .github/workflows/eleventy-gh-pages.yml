@@ -39,13 +39,13 @@ jobs:
         with:
           path: node_modules
           key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
-      - name: Cache Eleventy .cache and image output
+      - name: Cache Eleventy image output
         uses: actions/cache@v4
         with:
-          path: |
-            .cache
-            _site
-          key: ${{ runner.os }}-eleventy-${{ hashFiles('**/package-lock.json', 'eleventy.config.js') }}
+          path: .cache
+          key: ${{ runner.os }}-eleventy-img-${{ hashFiles('**/package-lock.json', 'eleventy.config.js') }}
+          restore-keys: |
+            ${{ runner.os }}-eleventy-img-
       # Troubleshooting: COMMENT_API_URL must be a repo *Variable* (not Secret).
       # See Settings → Secrets and variables → Actions → Variables.
       - name: Check comment env (troubleshooting)
