@@ -44,9 +44,9 @@ jobs:
         uses: actions/cache/restore@v4
         with:
           path: .cache
-          key: ${{ runner.os }}-eleventy-${{ hashFiles('eleventy.config.js') }}
+          key: ${{ runner.os }}-eleventy-${{ hashFiles('eleventy.config.js') }}-${{ github.sha }}
           restore-keys: |
-            ${{ runner.os }}-eleventy-
+            ${{ runner.os }}-eleventy-${{ hashFiles('eleventy.config.js') }}-
       - name: Log Eleventy cache status
         run: |
           if [ "${{ steps.restore-eleventy-cache.outputs.cache-hit }}" = "true" ]; then
@@ -72,7 +72,7 @@ jobs:
         uses: actions/cache/save@v4
         with:
           path: .cache
-          key: ${{ runner.os }}-eleventy-${{ hashFiles('eleventy.config.js') }}
+          key: ${{ runner.os }}-eleventy-${{ hashFiles('eleventy.config.js') }}-${{ github.sha }}
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
