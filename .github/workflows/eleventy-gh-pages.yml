@@ -40,12 +40,20 @@ jobs:
           path: node_modules
           key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
       - name: Cache Eleventy .cache (image output + fetch cache)
-        uses: actions/cache@v4
+        id: restore-eleventy-cache
+        uses: actions/cache/restore@v4
         with:
           path: .cache
           key: ${{ runner.os }}-eleventy-${{ hashFiles('eleventy.config.js') }}
           restore-keys: |
             ${{ runner.os }}-eleventy-
+      - name: Log Eleventy cache status
+        run: |
+          if [ "${{ steps.restore-eleventy-cache.outputs.cache-hit }}" = "true" ]; then
+            echo "Eleventy cache: hit"
+          else
+            echo "Eleventy cache: miss"
+          fi
       # Troubleshooting: COMMENT_API_URL must be a repo *Variable* (not Secret).
       # See Settings → Secrets and variables → Actions → Variables.
       - name: Check comment env (troubleshooting)
@@ -60,6 +68,11 @@ jobs:
         env:
           COMMENT_API_URL: ${{ vars.COMMENT_API_URL }}
           COMMENT_SECRET: ${{ secrets.COMMENT_SECRET }}
+      - name: Save Eleventy .cache
+        uses: actions/cache/save@v4
+        with:
+          path: .cache
+          key: ${{ runner.os }}-eleventy-${{ hashFiles('eleventy.config.js') }}
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
