@@ -75,7 +75,7 @@ export default async function(eleventyConfig) {
 			}
 		},
 		collection: {
-			name: "posts",
+			name: "visiblePosts",
 			limit: 10,
 		},
 		metadata: {
@@ -129,6 +129,14 @@ export default async function(eleventyConfig) {
 
 	// Filters
 	eleventyConfig.addPlugin(pluginFilters);
+
+	// Collections
+	eleventyConfig.addCollection("visiblePosts", (collectionApi) => {
+		return collectionApi.getFilteredByTag("posts").filter((item) => item.data.unlisted !== true);
+	});
+	eleventyConfig.addCollection("unlistedPosts", (collectionApi) => {
+		return collectionApi.getFilteredByTag("posts").filter((item) => item.data.unlisted === true);
+	});
 
 	eleventyConfig.addPlugin(IdAttributePlugin, {
 		// by default we use Eleventy’s built-in `slugify` filter:

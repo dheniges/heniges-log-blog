@@ -70,6 +70,7 @@ title: ${title}
 description: ${description}
 date: ${isoDate}
 tags:
+# unlisted: true
 ---
 
 Write your post here.
