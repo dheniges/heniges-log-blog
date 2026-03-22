@@ -138,6 +138,28 @@ export default async function(eleventyConfig) {
 		return collectionApi.getFilteredByTag("posts").filter((item) => item.data.unlisted === true);
 	});
 
+	// Atom feed for unlisted (“Dirks secret”) posts only (not linked in site nav)
+	eleventyConfig.addPlugin(feedPlugin, {
+		type: "atom",
+		outputPath: "/feed/dirks-secret-feed.xml",
+		stylesheet: "pretty-atom-feed.xsl",
+		collection: {
+			name: "unlistedPosts",
+			limit: 10,
+		},
+		metadata: {
+			language: metadata.language,
+			title: "Dirk's Secret Blog",
+			subtitle: "Depraved writings from a madman unfit for public blog dissemination. Or so votes his spouse.",
+			base: metadata.url,
+			author: {
+				name: metadata.author.name,
+				email: metadata.author.email,
+				url: metadata.author.url
+			}
+		}
+	});
+
 	eleventyConfig.addPlugin(IdAttributePlugin, {
 		// by default we use Eleventy’s built-in `slugify` filter:
 		// slugify: eleventyConfig.getFilter("slugify"),
