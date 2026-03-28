@@ -3,6 +3,10 @@ title: The Anchored Life
 description: The winds are not always in your favor
 date: 2026-03-27T00:00:00.000Z
 tags: mexico
+comments:
+  - author: Dad
+    date: '2026-03-28T19:38:07.484Z'
+    text: Your boatwork may be half-assed Dirk but it's quite evident you make a great laundly boy.
 ---
 The problem with sailing is you need a few things. A sailboat for starters, but then also wind. Captain Jesse keeps assuring me that no matter how hard I blow into the sails, it won't propel us forward. I think with enough training I can get my lung capacity there though.
 
