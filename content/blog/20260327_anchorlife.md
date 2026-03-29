@@ -7,6 +7,9 @@ comments:
   - author: Dad
     date: '2026-03-28T19:38:07.484Z'
     text: Your boatwork may be half-assed Dirk but it's quite evident you make a great laundly boy.
+  - author: Captain Chelsea
+    date: '2026-03-29T00:50:52.880Z'
+    text: 'Don''t worry, you''ll get your fill of sailing in the Pacific.'
 ---
 The problem with sailing is you need a few things. A sailboat for starters, but then also wind. Captain Jesse keeps assuring me that no matter how hard I blow into the sails, it won't propel us forward. I think with enough training I can get my lung capacity there though.
 
