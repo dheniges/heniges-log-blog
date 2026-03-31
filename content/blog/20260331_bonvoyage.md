@@ -9,6 +9,9 @@ comments:
     text: |-
       The onions are a lie. The record must be set straight: there are 30 onions! Even if some of them are smaller, they are still onions.
       -Dirk, on behalf of the onion counters guild, SV Ophelia
+  - author: Chelsea
+    date: '2026-03-31T22:37:23.044Z'
+    text: I'm very pleased to see the SV Ophelia Onion Counters Guild has already weighed in here to correct the record. We left shore with 30 onions.
 ---
 
 Figured I’d get another blog post in before internet becomes more rationed in the Pacific.
@@ -38,8 +41,6 @@ The best part about being on opposite shifts is Dirk and I each get the bed to o
 </div>
 
 Wind has been coming and going for this first day (as expected) so was fun to get a chance to try out motoring, sailing, and the tried and true motor sailing combo. 
-
-Sailing is definitely the preferred method. Send thoughts of wind our direction please.
 
 Sailing is definitely the preferred method. Send thoughts of wind our direction please.
 
