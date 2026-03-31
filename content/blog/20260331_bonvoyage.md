@@ -3,7 +3,12 @@ title: Bon Voyage
 description: Hopefully not a Bone Voyage
 date: 2026-03-31T00:00:00.000Z
 tags: mexico
-# unlisted: true
+comments:
+  - author: Dirk
+    date: '2026-03-31T22:14:38.460Z'
+    text: |-
+      The onions are a lie. The record must be set straight: there are 30 onions! Even if some of them are smaller, they are still onions.
+      -Dirk, on behalf of the onion counters guild, SV Ophelia
 ---
 
 Figured I’d get another blog post in before internet becomes more rationed in the Pacific.
