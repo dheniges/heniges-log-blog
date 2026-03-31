@@ -9,6 +9,12 @@ comments:
     text: |-
       The onions are a lie. The record must be set straight: there are 30 onions! Even if some of them are smaller, they are still onions.
       -Dirk, on behalf of the onion counters guild, SV Ophelia
+  - author: Chelsea
+    date: '2026-03-31T22:36:54.415Z'
+    text: I'm very pleased to see the SV Ophelia Onion Counters Guild has already weighed in here to correct the record. We left shore with 30 onions.
+  - author: Chelsea
+    date: '2026-03-31T22:37:23.044Z'
+    text: I'm very pleased to see the SV Ophelia Onion Counters Guild has already weighed in here to correct the record. We left shore with 30 onions.
 ---
 
 Figured I’d get another blog post in before internet becomes more rationed in the Pacific.
