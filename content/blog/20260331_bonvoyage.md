@@ -12,6 +12,12 @@ comments:
   - author: Chelsea
     date: '2026-03-31T22:37:23.044Z'
     text: I'm very pleased to see the SV Ophelia Onion Counters Guild has already weighed in here to correct the record. We left shore with 30 onions.
+  - author: Rickheniges
+    date: '2026-04-01T03:49:48.168Z'
+    text: |-
+      Wow.
+      Looks awesome
+      Have fun
 ---
 
 Figured I’d get another blog post in before internet becomes more rationed in the Pacific.
