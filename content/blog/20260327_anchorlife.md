@@ -10,6 +10,9 @@ comments:
   - author: Captain Chelsea
     date: '2026-03-29T00:50:52.880Z'
     text: 'Don''t worry, you''ll get your fill of sailing in the Pacific.'
+  - author: Sprocket
+    date: '2026-04-01T18:26:19.875Z'
+    text: The AI unidentified brown pelican is very cool!  Safe travels!
 ---
 The problem with sailing is you need a few things. A sailboat for starters, but then also wind. Captain Jesse keeps assuring me that no matter how hard I blow into the sails, it won't propel us forward. I think with enough training I can get my lung capacity there though.
 
