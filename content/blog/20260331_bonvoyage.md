@@ -12,6 +12,9 @@ comments:
   - author: Chelsea
     date: '2026-03-31T22:37:23.044Z'
     text: I'm very pleased to see the SV Ophelia Onion Counters Guild has already weighed in here to correct the record. We left shore with 30 onions.
+  - author: VicklePickle
+    date: '2026-04-01T01:50:06.647Z'
+    text: 'Bon voyage my little chickpeas! Wishing you the windiest wind, whales and the enjoyment of whatever you make out of thirty onions. Which (I imagine) will cause more windy-wind. Toooot.'
 ---
 
 Figured I’d get another blog post in before internet becomes more rationed in the Pacific.
