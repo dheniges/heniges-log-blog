@@ -21,6 +21,9 @@ comments:
       Wow.
       Looks awesome
       Have fun
+  - author: Sprocket
+    date: '2026-04-01T18:29:25.756Z'
+    text: May the winds and whales always be in your favor and that you end up having the perfect amount of onions!
 ---
 
 Figured I’d get another blog post in before internet becomes more rationed in the Pacific.
