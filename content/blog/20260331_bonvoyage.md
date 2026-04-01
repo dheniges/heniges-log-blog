@@ -15,6 +15,12 @@ comments:
   - author: VicklePickle
     date: '2026-04-01T01:50:06.647Z'
     text: 'Bon voyage my little chickpeas! Wishing you the windiest wind, whales and the enjoyment of whatever you make out of thirty onions. Which (I imagine) will cause more windy-wind. Toooot.'
+  - author: Rickheniges
+    date: '2026-04-01T03:49:48.168Z'
+    text: |-
+      Wow.
+      Looks awesome
+      Have fun
 ---
 
 Figured I’d get another blog post in before internet becomes more rationed in the Pacific.
