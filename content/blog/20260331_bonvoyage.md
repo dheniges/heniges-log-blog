@@ -27,6 +27,9 @@ comments:
   - author: Sierra
     date: '2026-04-02T23:44:06.903Z'
     text: Bon voyage!!! Glad to see the social cohesion is already crumbling vis a vis onion counters guild fragmentation. Cant wait to see where the alliances lie after a month at sea
+  - author: Brett
+    date: '2026-04-03T22:42:34.552Z'
+    text: 'As a dedicated smoothie addict I’m worried about the ratio of Banana to Onions for sure! There’s a great song by Si Kahn that the chorus starts with “ Sailing away on the Ocean of life, tossed on a foreign shore”… what an awesome adventure'
 ---
 
 Figured I’d get another blog post in before internet becomes more rationed in the Pacific.
