@@ -3,6 +3,10 @@ title: The Pacific Day 4
 description: Another day in the old blue
 date: 2026-04-05T00:00:00.000Z
 tags: pacific
+comments:
+  - author: Nancy
+    date: '2026-04-05T23:12:22.917Z'
+    text: "What experiences you’re having executing the simple land chores on rolling waves!  You’re blog is a blast to read\U0001F60D"
 ---
 
 Sarah here, writing you from somewhere in the Pacific Ocean. 
