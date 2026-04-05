@@ -1,8 +1,12 @@
 ---
 title: The People Have Spoken
 description: Our sights are on web 2.0
-date: 2026-01-26
+date: 2026-01-26T00:00:00.000Z
 tags: pretrip
+comments:
+  - author: Sue McKelvey
+    date: '2026-04-05T02:37:56.232Z'
+    text: "Oh my gosh I just realized today that you two are on this wonderful adventure!  Love living vicariously through your blog.  Plus it’s funny as hell \U0001F642\nWishing you both all the best!"
 ---
 
 We at the Heniges Log Blog love and appreciate our vast audience. Your feedback and support are critical for our tiny empire here in this corner of the web. So we have listened carefully to you, and after an at times contentious board meeting, have decided to look into adding comments to the LogBlog™.
