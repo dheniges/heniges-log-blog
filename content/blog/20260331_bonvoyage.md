@@ -30,6 +30,9 @@ comments:
   - author: Brett
     date: '2026-04-03T22:42:34.552Z'
     text: 'As a dedicated smoothie addict I’m worried about the ratio of Banana to Onions for sure! There’s a great song by Si Kahn that the chorus starts with “ Sailing away on the Ocean of life, tossed on a foreign shore”… what an awesome adventure'
+  - author: Cookie
+    date: '2026-04-03T02:02:36.113Z'
+    text: '\U0001F4A8\U0001F4A8\U0001F4A8\U0001F4A8'
 ---
 
 Figured I’d get another blog post in before internet becomes more rationed in the Pacific.
