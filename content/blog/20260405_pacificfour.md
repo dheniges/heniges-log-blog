@@ -3,6 +3,10 @@ title: The Pacific Day 4
 description: Another day in the old blue
 date: 2026-04-05T00:00:00.000Z
 tags: pacific
+comments:
+  - author: Aaron
+    date: '2026-04-05T22:09:08.574Z'
+    text: Love it! Awesome inspiration for me to continue working on my little sailboat. Im putting in a little jet boil on a gimble. I hope that will solve my coffee problems.
 ---
 
 Sarah here, writing you from somewhere in the Pacific Ocean. 
