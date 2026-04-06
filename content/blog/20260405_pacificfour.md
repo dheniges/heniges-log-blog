@@ -3,6 +3,13 @@ title: The Pacific Day 4
 description: Another day in the old blue
 date: 2026-04-05T00:00:00.000Z
 tags: pacific
+comments:
+  - author: Sierra
+    date: '2026-04-06T00:29:26.871Z'
+    text: |-
+      You may be the first ever to have spotted a Bland-Footed Booby!! Consider this a blessing from Poseidon himself. 
+
+      Also ahhh can’t believe it’s happening:) so glad the nap skills have kicked in when you needed them most
 ---
 
 Sarah here, writing you from somewhere in the Pacific Ocean. 
