@@ -10,6 +10,15 @@ comments:
       You may be the first ever to have spotted a Bland-Footed Booby!! Consider this a blessing from Poseidon himself. 
 
       Also ahhh can’t believe it’s happening:) so glad the nap skills have kicked in when you needed them most
+  - author: Nancy
+    date: '2026-04-05T23:12:22.917Z'
+    text: "What experiences you’re having executing the simple land chores on rolling waves!  You’re blog is a blast to read\U0001F60D"
+  - author: Aaron
+    date: '2026-04-05T22:09:08.574Z'
+    text: Love it! Awesome inspiration for me to continue working on my little sailboat. Im putting in a little jet boil on a gimble. I hope that will solve my coffee problems.
+  - author: Cassie
+    date: '2026-04-05T21:02:02.204Z'
+    text: Thank you for the updates! I’m sure it’s hard to be motivated to post when you are sleep deprived and nauseous but know that I am living vicariously through your adventure and each post makes me chuckle. Miss you both!
 ---
 
 Sarah here, writing you from somewhere in the Pacific Ocean. 
