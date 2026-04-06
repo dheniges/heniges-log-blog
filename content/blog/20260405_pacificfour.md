@@ -4,6 +4,9 @@ description: Another day in the old blue
 date: 2026-04-05T00:00:00.000Z
 tags: pacific
 comments:
+  - author: Aaron
+    date: '2026-04-05T22:09:08.574Z'
+    text: Love it! Awesome inspiration for me to continue working on my little sailboat. Im putting in a little jet boil on a gimble. I hope that will solve my coffee problems.
   - author: Cassie
     date: '2026-04-05T21:02:02.204Z'
     text: Thank you for the updates! I’m sure it’s hard to be motivated to post when you are sleep deprived and nauseous but know that I am living vicariously through your adventure and each post makes me chuckle. Miss you both!
