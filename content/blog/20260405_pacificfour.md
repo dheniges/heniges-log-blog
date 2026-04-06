@@ -7,6 +7,9 @@ comments:
   - author: Cassie
     date: '2026-04-05T21:02:02.204Z'
     text: Thank you for the updates! I’m sure it’s hard to be motivated to post when you are sleep deprived and nauseous but know that I am living vicariously through your adventure and each post makes me chuckle. Miss you both!
+  - author: Stina
+    date: '2026-04-06T20:16:45.987Z'
+    text: Looks like you guys are settling into sea life!  You will be a master at cooking on moving surfaces by the end of this trip.  You should really consider playing the video game overcooked.  I  could never pass the level where you had to cook on a moving sail boat - too many things to think about at once!
 ---
 
 Sarah here, writing you from somewhere in the Pacific Ocean. 
