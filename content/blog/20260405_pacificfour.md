@@ -22,6 +22,9 @@ comments:
   - author: Stina
     date: '2026-04-06T20:16:45.987Z'
     text: Looks like you guys are settling into sea life!  You will be a master at cooking on moving surfaces by the end of this trip.  You should really consider playing the video game overcooked.  I  could never pass the level where you had to cook on a moving sail boat - too many things to think about at once!
+  - author: Janet and Brett
+    date: '2026-04-08T03:03:20.478Z'
+    text: Oh Ya!!  This is exactly what us land-locked folks need when you have disappeared off the land areas!  Never realized what amazing writers you all are and very blessed and humored by these posts.  Keep them coming whenever you can actually send them or are up to it....
 ---
 
 Sarah here, writing you from somewhere in the Pacific Ocean. 
