@@ -25,6 +25,11 @@ comments:
   - author: Janet and Brett
     date: '2026-04-08T03:03:20.478Z'
     text: Oh Ya!!  This is exactly what us land-locked folks need when you have disappeared off the land areas!  Never realized what amazing writers you all are and very blessed and humored by these posts.  Keep them coming whenever you can actually send them or are up to it....
+  - author: Brett
+    date: '2026-04-08T22:26:45.567Z'
+    text: |-
+      I think the “Booby” is a “Brewster (Brown) Booby” from what I can tell from the picture and description in my bird books…”yellow ish”
+      Feet look much like the ones in your photo.
 ---
 
 Sarah here, writing you from somewhere in the Pacific Ocean. 
