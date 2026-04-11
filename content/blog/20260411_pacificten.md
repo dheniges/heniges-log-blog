@@ -7,6 +7,9 @@ comments:
   - author: Ulla
     date: '2026-04-11T21:17:17.311Z'
     text: Lots of hugs to you all and hope for smooth sailing ⛵️
+  - author: Nancy
+    date: '2026-04-11T21:58:51.079Z'
+    text: So good to get your updates.  Glad everyone is getting by with minimal motion sickness.  Hoping you can get the much deserved  rest you need❤️
 ---
 
 Sarah here. No photos today as we try and cut down on WiFi time for battery consumption. But this is designed to be an old school blog so it seems fitting anyway. 
