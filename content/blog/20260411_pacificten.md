@@ -3,6 +3,10 @@ title: Pacific Day 10
 description: The Pacific on Day 10
 date: 2026-04-11T00:00:00.000Z
 tags: pacific
+comments:
+  - author: Ulla
+    date: '2026-04-11T21:17:17.311Z'
+    text: Lots of hugs to you all and hope for smooth sailing ⛵️
 ---
 
 Sarah here. No photos today as we try and cut down on WiFi time for battery consumption. But this is designed to be an old school blog so it seems fitting anyway. 
