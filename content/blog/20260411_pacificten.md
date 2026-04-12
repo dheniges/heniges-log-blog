@@ -7,6 +7,9 @@ comments:
   - author: Ulla
     date: '2026-04-11T21:17:17.311Z'
     text: Lots of hugs to you all and hope for smooth sailing ⛵️
+  - author: Stina
+    date: '2026-04-11T21:31:30.568Z'
+    text: Chelsea is doing gods work!  Those shade covers are mission critical!
 ---
 
 Sarah here. No photos today as we try and cut down on WiFi time for battery consumption. But this is designed to be an old school blog so it seems fitting anyway. 
