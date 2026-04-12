@@ -10,6 +10,12 @@ comments:
   - author: Stina
     date: '2026-04-11T21:31:30.568Z'
     text: Chelsea is doing gods work!  Those shade covers are mission critical!
+  - author: Cassie
+    date: '2026-04-12T09:22:01.661Z'
+    text: |-
+      I think I speak for all of us when I insist you give us more details on the last perishable food you have left on board.
+
+      (Obviously I speak only for me. I don’t have anyone to talk to now that you’re gone.)
 ---
 
 Sarah here. No photos today as we try and cut down on WiFi time for battery consumption. But this is designed to be an old school blog so it seems fitting anyway. 
