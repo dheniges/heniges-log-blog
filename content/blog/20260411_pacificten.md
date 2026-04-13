@@ -16,6 +16,11 @@ comments:
       I think I speak for all of us when I insist you give us more details on the last perishable food you have left on board.
 
       (Obviously I speak only for me. I don’t have anyone to talk to now that you’re gone.)
+  - author: Jamie
+    date: '2026-04-13T03:07:06.027Z'
+    text: |-
+      Loving the Blog, I feel as if we are on this adventure with you from afar.
+      I am with Cassie on the food info...but I want to know how the snacks going, you know me I like to have snacks for every adventure.
 ---
 
 Sarah here. No photos today as we try and cut down on WiFi time for battery consumption. But this is designed to be an old school blog so it seems fitting anyway. 
