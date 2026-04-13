@@ -16,6 +16,9 @@ comments:
       I think I speak for all of us when I insist you give us more details on the last perishable food you have left on board.
 
       (Obviously I speak only for me. I don’t have anyone to talk to now that you’re gone.)
+  - author: Nancy
+    date: '2026-04-11T21:58:51.079Z'
+    text: So good to get your updates.  Glad everyone is getting by with minimal motion sickness.  Hoping you can get the much deserved  rest you need❤️
   - author: Jamie
     date: '2026-04-13T03:07:06.027Z'
     text: |-
