@@ -10,6 +10,9 @@ comments:
       "...Pierre, the French autopilot who lives in a locker under the cockpit."
 
       The little known first pass at what would become SpongeBob Squarepants.
+  - author: Sarah
+    date: '2026-04-15T17:53:37.882Z'
+    text: Let the record show I made it through a night watch with no storms or lightening last night!
 ---
 
 Family, friends and foes, it is I, the technical operator of this blog, back from my fortnight hiatus. And where did I go? It’s all relative, but picture me in a sleep-deprived, heat-exhausted state (but thankfully not quite heat exhaustion). The stupor is beginning to lift as we’ve settled into the sea life.
