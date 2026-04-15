@@ -1,4 +1,9 @@
-
+---
+title: Pacific Musings
+description: Dirk may have lost it
+date: 2026-04-13T00:00:00.000Z
+tags: pacific
+---
 
 Family, friends and foes, it is I, the technical operator of this blog, back from my fortnight hiatus. And where did I go? It’s all relative, but picture me in a sleep-deprived, heat-exhausted state (but thankfully not quite heat exhaustion). The stupor is beginning to lift as we’ve settled into the sea life.
 
