@@ -7,6 +7,9 @@ comments:
   - author: Andy
     date: '2026-04-14T01:34:29.891Z'
     text: 'Thank you Sarah, for keeping me sane and entertained! Great blog! Though I get a little seasick just reading it! And you''ll be happy to know that flying squid are a real thing! Several species of squid can glide above the water, the most famous of which is the japanese flying squid! They actually suck in water and blast it out like a jet engine, which launches them out of the ocean. And they actually spread their fins and arms like wings. Hope that little tidbit gets you through a few hours of awake time! Big hugs to all!'
+  - author: Sarah
+    date: '2026-04-15T18:25:42.164Z'
+    text: Thanks Andy! That’s wild learning about the flying squid!
 ---
 
 Day 11: Spirits are improving. While the sun is still scorching hot near the equator, we’ve figured out some strategies that are helping. 
