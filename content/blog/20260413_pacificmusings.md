@@ -16,6 +16,12 @@ comments:
   - author: Jamie
     date: '2026-04-15T18:42:34.899Z'
     text: 'Welcome Back Dirk! Sarah has done very well keeping updated in your absence. Stay cool and hydrated. I feel like I am there with all of you. Minus the broken sleeps, the scorching sun and being hurled to and fro. Miss you guys!'
+  - author: Stina
+    date: '2026-04-17T16:23:45.067Z'
+    text: |-
+      Cookie should start his own blog!  Loving all the comments!
+
+      Also - I will stick to my plunge/sauna experiences on SJI.  Those sound much more pleasant!
 ---
 
 Family, friends and foes, it is I, the technical operator of this blog, back from my fortnight hiatus. And where did I go? It’s all relative, but picture me in a sleep-deprived, heat-exhausted state (but thankfully not quite heat exhaustion). The stupor is beginning to lift as we’ve settled into the sea life.
