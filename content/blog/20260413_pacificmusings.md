@@ -22,6 +22,9 @@ comments:
       Cookie should start his own blog!  Loving all the comments!
 
       Also - I will stick to my plunge/sauna experiences on SJI.  Those sound much more pleasant!
+  - author: Janet
+    date: '2026-04-18T02:57:51.415Z'
+    text: "Oh Yes!  Great dinner entertainment from you all, but had started wondering where you were\U0001F974.  Now I have the fine fine details of tiny bathrooms and thinking you start a company to compete with tiny houses?  And maybe the cold of April weather up north here will be awesome for boating when you return?"
 ---
 
 Family, friends and foes, it is I, the technical operator of this blog, back from my fortnight hiatus. And where did I go? It’s all relative, but picture me in a sleep-deprived, heat-exhausted state (but thankfully not quite heat exhaustion). The stupor is beginning to lift as we’ve settled into the sea life.
