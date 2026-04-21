@@ -10,6 +10,9 @@ comments:
   - author: Sarah
     date: '2026-04-15T18:25:42.164Z'
     text: Thanks Andy! That’s wild learning about the flying squid!
+  - author: Sierra
+    date: '2026-04-21T23:24:12.895Z'
+    text: You know I think the overstocking of food had a secondary benefit which was making all of us on land feel slightly less worried for you all so it served a dual purpose!! I hope you catch a flying squid in the act of sneaking aboard next time!
 ---
 
 Day 11: Spirits are improving. While the sun is still scorching hot near the equator, we’ve figured out some strategies that are helping. 
