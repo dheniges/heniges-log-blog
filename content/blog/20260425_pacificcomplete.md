@@ -3,6 +3,10 @@ title: Pacific Crossing Complete
 description: One journey ends
 date: 2026-04-25T00:00:00.000Z
 tags: pacific
+comments:
+  - author: Andy
+    date: '2026-04-26T01:32:01.478Z'
+    text: Oh yayyyy! Been tracking you no less than 5x per day! So happy to see you landed...and visiting friends. You must fill us in on your first steps! I get seasick just talking about it! Wonderful posts...great reading! Its my lifeline!!!! Love you all! Xo
 ---
 
 Day 25, we landed in Nuku Hiva, French Polynesia! 
