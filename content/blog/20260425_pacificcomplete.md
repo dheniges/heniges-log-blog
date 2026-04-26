@@ -7,6 +7,9 @@ comments:
   - author: Andy
     date: '2026-04-26T01:32:01.478Z'
     text: Oh yayyyy! Been tracking you no less than 5x per day! So happy to see you landed...and visiting friends. You must fill us in on your first steps! I get seasick just talking about it! Wonderful posts...great reading! Its my lifeline!!!! Love you all! Xo
+  - author: Rog
+    date: '2026-04-26T20:59:40.667Z'
+    text: 'Yeehaw! You guys made it. I''ve been traveling vicariously through your posts sans scratches, bruises, and bumps. You must post a video of your first wobbly steps on terra firma. Pics of the bay and it''s surroundings look beautiful. Enjoy your time there.'
 ---
 
 Day 25, we landed in Nuku Hiva, French Polynesia! 
