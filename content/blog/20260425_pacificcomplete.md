@@ -3,6 +3,13 @@ title: Pacific Crossing Complete
 description: One journey ends
 date: 2026-04-25T00:00:00.000Z
 tags: pacific
+comments:
+  - author: Sarah
+    date: '2026-04-26T01:06:21.525Z'
+    text: |-
+      Jumped back in time zones? This whole time thing is very confusing.
+
+      Back to your regularly scheduled programming…
 ---
 
 Day 25, we landed in Nuku Hiva, French Polynesia! 
