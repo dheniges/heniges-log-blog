@@ -19,6 +19,9 @@ comments:
   - author: Maggie
     date: '2026-04-26T21:12:25.483Z'
     text: 'Congratulations on making landfall. I have loved reading your blog updates along the way, thank you for putting in the energy, between the seasickness and lack of sleep, to update us all.'
+  - author: Sierra
+    date: '2026-04-27T08:00:44.180Z'
+    text: "Yay!!!!! The Jesse alarm clock and tropical applesauce cracked me up \U0001F602 enjoy!!!!"
 ---
 
 Day 25, we landed in Nuku Hiva, French Polynesia! 
