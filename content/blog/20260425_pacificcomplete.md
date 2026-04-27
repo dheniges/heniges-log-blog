@@ -4,6 +4,12 @@ description: One journey ends
 date: 2026-04-25T00:00:00.000Z
 tags: pacific
 comments:
+  - author: Sarah
+    date: '2026-04-26T01:06:21.525Z'
+    text: |-
+      Jumped back in time zones? This whole time thing is very confusing.
+
+      Back to your regularly scheduled programming…
   - author: Andy
     date: '2026-04-26T01:32:01.478Z'
     text: Oh yayyyy! Been tracking you no less than 5x per day! So happy to see you landed...and visiting friends. You must fill us in on your first steps! I get seasick just talking about it! Wonderful posts...great reading! Its my lifeline!!!! Love you all! Xo
