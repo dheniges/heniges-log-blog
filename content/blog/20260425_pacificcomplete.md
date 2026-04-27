@@ -16,6 +16,9 @@ comments:
   - author: Rog
     date: '2026-04-26T20:59:40.667Z'
     text: 'Yeehaw! You guys made it. I''ve been traveling vicariously through your posts sans scratches, bruises, and bumps. You must post a video of your first wobbly steps on terra firma. Pics of the bay and it''s surroundings look beautiful. Enjoy your time there.'
+  - author: Maggie
+    date: '2026-04-26T21:12:25.483Z'
+    text: 'Congratulations on making landfall. I have loved reading your blog updates along the way, thank you for putting in the energy, between the seasickness and lack of sleep, to update us all.'
 ---
 
 Day 25, we landed in Nuku Hiva, French Polynesia! 
