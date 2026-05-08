@@ -22,6 +22,9 @@ comments:
   - author: Sierra
     date: '2026-04-27T08:00:44.180Z'
     text: "Yay!!!!! The Jesse alarm clock and tropical applesauce cracked me up \U0001F602 enjoy!!!!"
+  - author: Chelsea
+    date: '2026-05-08T21:14:35.209Z'
+    text: The heartwarming sounds of Jesse swearing on deck really were heartwarming - it meant we'd be smooth sailing with the spinniker for the foreseeable future!
 ---
 
 Day 25, we landed in Nuku Hiva, French Polynesia! 
