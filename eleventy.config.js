@@ -138,6 +138,20 @@ export default async function(eleventyConfig) {
 		return collectionApi.getFilteredByTag("posts").filter((item) => item.data.unlisted === true);
 	});
 
+	/** Tag strings that appear on at least one non-unlisted post (for tags index + tag pagination). */
+	eleventyConfig.addCollection("visibleTagNames", (collectionApi) => {
+		const visible = collectionApi.getFilteredByTag("posts").filter((item) => item.data.unlisted !== true);
+		const tags = new Set();
+		for (const item of visible) {
+			for (const tag of item.data.tags || []) {
+				if (tag !== "all" && tag !== "posts") {
+					tags.add(tag);
+				}
+			}
+		}
+		return Array.from(tags).sort((b, a) => b.localeCompare(a));
+	});
+
 	// Atom feed for unlisted (“Dirks secret”) posts only (not linked in site nav)
 	eleventyConfig.addPlugin(feedPlugin, {
 		type: "atom",

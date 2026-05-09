@@ -1,11 +1,9 @@
 ---js
 // <script>
 const pagination = {
-	data: "collections",
+	data: "collections.visibleTagNames",
 	size: 1,
 	alias: "tag",
-	filter: ["all", "posts"],
-	// addAllPagesToCollections: true,
 };
 
 const eleventyExcludeFromCollections = true;
@@ -21,7 +19,7 @@ const eleventyComputed = {
 ---
 <h1>Tagged “{{ tag }}”</h1>
 
-{% set postslist = collections[ tag ] %}
+{% set postslist = collections.visiblePosts | postsWithTag(tag) %}
 {% include "postslist.njk" %}
 
 <p>See <a href="tags.njk">all tags</a>.</p>

@@ -43,4 +43,11 @@ export default function(eleventyConfig) {
 	eleventyConfig.addFilter("sortAlphabetically", strings =>
 		(strings || []).sort((b, a) => b.localeCompare(a))
 	);
+
+	eleventyConfig.addFilter("postsWithTag", (posts, tag) => {
+		if (!Array.isArray(posts) || !tag) {
+			return [];
+		}
+		return posts.filter((item) => (item.data.tags || []).includes(tag));
+	});
 };
