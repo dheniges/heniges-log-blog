@@ -1,8 +1,12 @@
 ---
 title: The Australian Sister
-description: She's not Australian, she is IN Australia
+description: 'She''s not Australian, she is IN Australia'
 date: 2026-06-11T00:00:00.000Z
 tags: australia
+comments:
+  - author: Brett
+    date: '2026-06-12T00:50:45.318Z'
+    text: Maybe you’ll have to have just a special “Blirg” or “Blird” for peeps like me who love a good Birdblog….
 ---
 
 My youngest sister, Sierra, is now living in Australia. As her oldest brother it is my solemn duty to go visit her. At least that's what I put on my Australian visa application and they let me in the country. She's the first sibling to move to a different continent which is both awesome but a huge change, so I was very excited to get to see her!
