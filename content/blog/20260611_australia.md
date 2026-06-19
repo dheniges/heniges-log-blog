@@ -10,6 +10,9 @@ comments:
   - author: Sprocket
     date: '2026-06-14T14:44:58.750Z'
     text: As usual great pictures and commentary!
+  - author: Earl of Bourbon
+    date: '2026-06-19T01:01:11.019Z'
+    text: Sweet chickens!
 ---
 
 My youngest sister, Sierra, is now living in Australia. As her oldest brother it is my solemn duty to go visit her. At least that's what I put on my Australian visa application and they let me in the country. She's the first sibling to move to a different continent which is both awesome but a huge change, so I was very excited to get to see her!
