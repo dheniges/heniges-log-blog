@@ -13,6 +13,9 @@ comments:
   - author: Earl of Bourbon
     date: '2026-06-19T01:01:11.019Z'
     text: Sweet chickens!
+  - author: Chelsea
+    date: '2026-06-24T02:19:44.000Z'
+    text: 'Looks like you''re back in your element with identifying birds, now that they''re non-sea birds.  So happy for you.'
 ---
 
 My youngest sister, Sierra, is now living in Australia. As her oldest brother it is my solemn duty to go visit her. At least that's what I put on my Australian visa application and they let me in the country. She's the first sibling to move to a different continent which is both awesome but a huge change, so I was very excited to get to see her!
