@@ -16,6 +16,9 @@ comments:
   - author: Chelsea
     date: '2026-06-24T02:19:44.000Z'
     text: 'Looks like you''re back in your element with identifying birds, now that they''re non-sea birds.  So happy for you.'
+  - author: Stina
+    date: '2026-06-25T14:30:11.878Z'
+    text: Where are the pictures of the coffee and good food in Melbourne???
 ---
 
 My youngest sister, Sierra, is now living in Australia. As her oldest brother it is my solemn duty to go visit her. At least that's what I put on my Australian visa application and they let me in the country. She's the first sibling to move to a different continent which is both awesome but a huge change, so I was very excited to get to see her!
