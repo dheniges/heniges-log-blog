@@ -28,6 +28,9 @@ comments:
   - author: Sierra
     date: '2026-04-21T23:35:45.297Z'
     text: Sarah the lightning-summoning sorcerer!!
+  - author: Sue McKelvey
+    date: '2026-08-09T00:30:21.930Z'
+    text: 'Dirk and Sarah, this blog is pure gold.  Thank you for using your precious energy to keep us up to date and entertained!'
 ---
 
 Family, friends and foes, it is I, the technical operator of this blog, back from my fortnight hiatus. And where did I go? It’s all relative, but picture me in a sleep-deprived, heat-exhausted state (but thankfully not quite heat exhaustion). The stupor is beginning to lift as we’ve settled into the sea life.
