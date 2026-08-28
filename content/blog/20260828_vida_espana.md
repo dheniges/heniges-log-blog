@@ -3,6 +3,10 @@ title: Life in Spain
 description: La vida en espana
 date: 2026-08-28T00:00:00.000Z
 tags: spain
+comments:
+  - author: Ulla McConkey
+    date: '2026-08-28T17:38:01.066Z'
+    text: 'Hurrah, I see use of hiking poles and mountains climbed, beautiful scenery, churches, love the happy faces but where are the many earthquake stories?'
 ---
 
 Readers, you've been nothing but loyal, refreshing this blog on a daily, or probably hourly basis, and here we've been, frittering away our free time not writing you updates. Such is the burden of fandom, but I hope you all find the strength to carry on with only this morsel of an update.
