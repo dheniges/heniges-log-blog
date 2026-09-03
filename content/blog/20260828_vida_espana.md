@@ -13,6 +13,9 @@ comments:
       @UllaMcconkey (aka hi Mom!)
 
       You make a good point. Dirk casually left out the more than 45 seismic events that were felt by the population here in Granada in August (over 1000 if you count the ones we couldn’t feel). Nothing like a little earthquake to get you out of bed in the morning!
+  - author: Stina
+    date: '2026-09-02T19:28:35.835Z'
+    text: Where are the bird photos?
 ---
 
 Readers, you've been nothing but loyal, refreshing this blog on a daily, or probably hourly basis, and here we've been, frittering away our free time not writing you updates. Such is the burden of fandom, but I hope you all find the strength to carry on with only this morsel of an update.
