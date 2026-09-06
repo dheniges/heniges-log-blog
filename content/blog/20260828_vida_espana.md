@@ -16,6 +16,9 @@ comments:
   - author: Stina
     date: '2026-09-02T19:28:35.835Z'
     text: Where are the bird photos?
+  - author: Pete
+    date: '2026-09-06T14:18:43.224Z'
+    text: So nice to see your smiling faces!!  And that you’re able to hike above sea level
 ---
 
 Readers, you've been nothing but loyal, refreshing this blog on a daily, or probably hourly basis, and here we've been, frittering away our free time not writing you updates. Such is the burden of fandom, but I hope you all find the strength to carry on with only this morsel of an update.
